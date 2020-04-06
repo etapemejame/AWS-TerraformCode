@@ -1,5 +1,4 @@
 provider "aws" {
   region     = "us-east-1"
-  shared_credentials_file = "C:/Users/etape/.aws/credentials"
-  //profile                 = "%USERPROFILE%"
+  shared_credentials_file = "C:/Users/terra-user/.aws/credentials"
 }
